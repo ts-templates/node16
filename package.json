@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "Template repository",
+  "description": "{{description}}",
   "private": true,
   "scripts": {
     "start": "ts-node src/index.ts"
