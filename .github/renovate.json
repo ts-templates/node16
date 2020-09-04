@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>ts-examples/renovate-config"
+    "@ts-examples"
   ]
 }
