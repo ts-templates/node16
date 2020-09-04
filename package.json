@@ -1,7 +1,7 @@
 {
   "name": "@ts-examples/template",
   "version": "1.0.0",
-  "description": "TypeScript project template",
+  "description": "Template for TypeScript project",
   "private": true,
   "scripts": {
     "start": "ts-node src/main.ts"
