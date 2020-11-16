@@ -24,10 +24,5 @@
     "ts-node": "9.0.0",
     "tsconfigs": "5.0.0",
     "typescript": "4.0.5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   }
 }
