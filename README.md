@@ -8,9 +8,9 @@ Template for TypeScript project
 
 - [ESLint](https://eslint.org/) with [JavaScript Standard Style](https://standardjs.com/)
     - Run on pre-commit hook
-    - Run on GitHub Action
+    - Run on Pull request by GitHub Action
 - Test by [Jest](https://jestjs.io/)
-    - Run on GitHub Action
+    - Run on Pull request by GitHub Action
 - Manage Node.js version by [nvm](https://github.com/nvm-sh/nvm)
 - Manage dependency updates by [Renovate](https://renovatebot.com/)
 
