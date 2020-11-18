@@ -1,9 +1,3 @@
 {
-  "extends": "tsconfigs/nodejs-executable",
-  "compilerOptions": {
-    "types": [
-      "node",
-      "jest"
-    ]
-  }
+  "extends": "@ts-examples/tsconfig"
 }
