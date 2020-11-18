@@ -7,7 +7,10 @@ Template for TypeScript project
 ## Features
 
 - [ESLint](https://eslint.org/) with [JavaScript Standard Style](https://standardjs.com/)
+  - Run on pre-commit hook
+  - Run on GitHub Action
 - Test by [Jest](https://jestjs.io/)
+  - Run on GitHub Action
 - Manage dependency updates by [Renovate](https://renovatebot.com/)
 
 ## Usage
