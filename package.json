@@ -10,7 +10,7 @@
   "devDependencies": {
     "@ts-examples/eslint-config": "1.0.0",
     "@ts-examples/tsconfig": "1.0.0",
-    "@types/jest": "26.0.19",
+    "@types/jest": "26.0.20",
     "@types/node": "14.14.7",
     "eslint": "7.17.0",
     "husky": "4.3.6",
