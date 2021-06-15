@@ -1,7 +1,7 @@
 {
-  "name": "@ts-examples/template",
+  "name": "@ts-examples/node14",
   "version": "1.0.0",
-  "description": "Template for TypeScript project",
+  "description": "Template for TypeScript project using Node.js v14",
   "private": true,
   "scripts": {
     "lint": "eslint '**/*.{js,ts}'",
