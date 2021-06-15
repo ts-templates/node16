@@ -4,6 +4,7 @@
   "description": "Template for TypeScript project",
   "private": true,
   "scripts": {
+    "lint": "eslint '**/*.{js,ts}'",
     "start": "ts-node src/main.ts",
     "test": "jest --passWithNoTests"
   },
