@@ -1,3 +1,9 @@
 {
-  "extends": "@ts-examples/tsconfig"
+  "extends": "@tsconfig/node14/tsconfig",
+  "compilerOptions": {
+    "types": [
+      "node",
+      "jest"
+    ]
+  }
 }
