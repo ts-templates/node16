@@ -7,7 +7,7 @@ Template for TypeScript project using Node.js v14
 ## Features
 
 - [ESLint](https://eslint.org/) with [JavaScript Standard Style](https://standardjs.com/)
-  - Run on pre-commit hook
+  - Run on pre-commit hook by [husky](https://typicode.github.io/husky/) and [lint-staged](https://github.com/okonet/lint-staged)
   - Run on Pull request by GitHub Action
 - Test by [Jest](https://jestjs.io/)
   - Run on Pull request by GitHub Action
