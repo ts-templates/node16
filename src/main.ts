@@ -1,3 +1,3 @@
-import { add } from './add'
+import { greet } from './greet'
 
-console.log(add(1, 2))
+console.log(greet('World'))
