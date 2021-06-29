@@ -10,7 +10,7 @@
     "test": "jest --passWithNoTests"
   },
   "devDependencies": {
-    "@jest/types": "27.0.2",
+    "@jest/types": "27.0.6",
     "@tsconfig/node14": "1.0.1",
     "@types/jest": "26.0.23",
     "@types/node": "14.17.4",
@@ -22,7 +22,7 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "5.1.0",
     "husky": "6.0.0",
-    "jest": "27.0.5",
+    "jest": "27.0.6",
     "lint-staged": "11.0.0",
     "ts-jest": "27.0.3",
     "ts-node": "10.0.0",
