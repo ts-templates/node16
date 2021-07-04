@@ -1,7 +1,7 @@
 {
-  "name": "@ts-templates/node14",
+  "name": "@ts-templates/node16",
   "version": "1.0.0",
-  "description": "Template for TypeScript project using Node.js v14",
+  "description": "Template for TypeScript project using Node.js v16",
   "private": true,
   "scripts": {
     "lint": "eslint '**/*.{js,ts}'",
@@ -10,14 +10,14 @@
     "test": "jest --passWithNoTests"
   },
   "engines": {
-    "node": "14.17.2",
-    "npm": "6.14.13"
+    "node": "16.0.0",
+    "npm": "7.10.0"
   },
   "devDependencies": {
     "@jest/types": "27.0.6",
-    "@tsconfig/node14": "1.0.1",
+    "@tsconfig/node16": "1.0.1",
     "@types/jest": "26.0.23",
-    "@types/node": "14.17.4",
+    "@types/node": "16.0",
     "@typescript-eslint/eslint-plugin": "4.28.1",
     "eslint": "7.30.0",
     "eslint-config-standard-with-typescript": "20.0.0",
