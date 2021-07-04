@@ -1,3 +1,5 @@
+![eslint](https://github.com/ts-templates/node14/actions/workflows/eslint.yml/badge.svg)
+![test](https://github.com/ts-templates/node14/actions/workflows/test.yml/badge.svg)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 # @ts-templates/node14
@@ -18,6 +20,7 @@ Template for TypeScript project using Node.js v14
 
 1. [Create repository](https://github.com/ts-templates/node14/generate) using template
 2. Replace provisional string with actual string
+    - `https://github.com/ts-templates/node14` => your repository URL
     - `@ts-templates/node14` => your package name
     - `Template for TypeScript project using Node.js v14` => your package description
 3. Implement `src/main.ts`
