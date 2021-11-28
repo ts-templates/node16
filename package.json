@@ -1,6 +1,6 @@
 {
   "name": "@ts-templates/node16",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Template for TypeScript project using Node.js v16",
   "private": true,
   "scripts": {
@@ -30,5 +30,6 @@
     "ts-jest": "27.0.7",
     "ts-node": "10.4.0",
     "typescript": "4.5.2"
-  }
+  },
+  "license": "MIT"
 }
