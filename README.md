@@ -8,9 +8,9 @@ Template for TypeScript project using Node.js v16
 
 - [ESLint](https://eslint.org/) with [JavaScript Standard Style](https://standardjs.com/)
   - Run on pre-commit hook by [husky](https://typicode.github.io/husky/) and [lint-staged](https://github.com/okonet/lint-staged)
-  - Run on Pull request by GitHub Action
+  - Run on Pull request by GitHub Actions
 - Test by [Jest](https://jestjs.io/)
-  - Run on Pull request by GitHub Action
+  - Run on Pull request by GitHub Actions
 - Manage Node.js version by [nvm](https://github.com/nvm-sh/nvm)
 - Manage dependency updates by [Renovate](https://renovatebot.com/)
 
