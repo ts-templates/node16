@@ -21,3 +21,22 @@ Template for TypeScript project using Node.js v16
     - `@ts-templates/node16` => your package name
     - `Template for TypeScript project using Node.js v16` => your package description
 3. Implement `src/main.ts`
+
+## Scripts
+
+```sh
+# Compile TypeScript files to JavaScript files
+npm run build
+
+# Remove built files
+npm run clean
+
+# Run linters
+npm run lint
+
+# Run main.ts
+npm start
+
+# Run tests
+npm test
+```
