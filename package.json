@@ -4,6 +4,7 @@
   "description": "Template for TypeScript project using Node.js v16",
   "private": true,
   "scripts": {
+    "build": "tsc --project tsconfig.build.json",
     "lint": "eslint '**/*.{js,ts}'",
     "prepare": "husky install",
     "start": "ts-node src/main.ts",
