@@ -4,7 +4,10 @@
   "description": "Template for TypeScript project using Node.js v16",
   "private": true,
   "scripts": {
+    "build": "tsc --project tsconfig.build.json",
+    "clean": "rimraf dist",
     "lint": "eslint '**/*.{js,ts}'",
+    "prebuild": "npm run clean",
     "prepare": "husky install",
     "start": "ts-node src/main.ts",
     "test": "jest --passWithNoTests"
@@ -27,6 +30,7 @@
     "husky": "7.0.4",
     "jest": "27.0.6",
     "lint-staged": "12.1.2",
+    "rimraf": "3.0.2",
     "ts-jest": "27.0.7",
     "ts-node": "10.4.0",
     "typescript": "4.5.2"
