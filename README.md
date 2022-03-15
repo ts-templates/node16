@@ -1,4 +1,6 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![eslint](https://github.com/ts-templates/node16/actions/workflows/eslint.yml/badge.svg)](https://github.com/ts-templates/node16/actions/workflows/eslint.yml)
+[![test](https://github.com/ts-templates/node16/actions/workflows/test.yml/badge.svg)](https://github.com/ts-templates/node16/actions/workflows/test.yml)
 
 # @ts-templates/node16
 
@@ -18,6 +20,7 @@ Template for TypeScript project using Node.js v16
 
 1. [Create repository](https://github.com/ts-templates/node16/generate) using template
 2. Replace provisional string with actual string
+    - `https://github.com/ts-templates/node16` => your repository URL
     - `@ts-templates/node16` => your package name
     - `Template for TypeScript project using Node.js v16` => your package description
 3. Implement `src/main.ts`
