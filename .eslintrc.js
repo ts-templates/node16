@@ -3,9 +3,6 @@ module.exports = {
     'standard-with-typescript',
     'plugin:jest/recommended'
   ],
-  plugins: [
-    'jest'
-  ],
   parserOptions: {
     project: './tsconfig.json'
   }
