@@ -16,9 +16,9 @@
     "node": "16.11.1"
   },
   "devDependencies": {
-    "@jest/types": "27.4.2",
+    "@jest/types": "27.5.1",
     "@tsconfig/node16": "1.0.3",
-    "@types/jest": "27.4.1",
+    "@types/jest": "27.5.2",
     "@types/node": "16.11.41",
     "@typescript-eslint/eslint-plugin": "5.29.0",
     "eslint": "8.18.0",
@@ -28,7 +28,7 @@
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "6.0.0",
     "husky": "8.0.1",
-    "jest": "27.4.7",
+    "jest": "27.5.1",
     "lint-staged": "12.5.0",
     "rimraf": "3.0.2",
     "ts-jest": "27.1.5",
