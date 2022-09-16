@@ -21,7 +21,7 @@
     "@types/node": "16.11.59",
     "@typescript-eslint/eslint-plugin": "5.37.0",
     "eslint": "8.23.1",
-    "eslint-config-standard-with-typescript": "22.0.0",
+    "eslint-config-standard-with-typescript": "23.0.0",
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-jest": "27.0.4",
     "eslint-plugin-n": "15.2.5",
