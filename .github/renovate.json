@@ -4,7 +4,7 @@
   ],
   "force": {
     "constraints": {
-      "node": "16.11.1"
+      "node": "16.18.1"
     }
   },
   "labels": ["renovate"],
