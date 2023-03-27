@@ -13,12 +13,12 @@
     "test": "jest --passWithNoTests"
   },
   "engines": {
-    "node": "16.11.1"
+    "node": "16.18.1"
   },
   "devDependencies": {
     "@eslint-recommended/eslint-config-typescript": "17.0.1",
     "@tsconfig/node16": "1.0.3",
-    "@types/node": "16.11.68",
+    "@types/node": "16.18.21",
     "eslint": "8.36.0",
     "eslint-plugin-jest": "27.2.1",
     "jest": "29.5.0",
